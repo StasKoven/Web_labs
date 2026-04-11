@@ -7,6 +7,7 @@ function App() {
     <div>
       <h1>Lab 1</h1>
       <p>Created by Stanislav</p>
+      <p>Preview deployment test branch</p>
     </div>
   )
 }
